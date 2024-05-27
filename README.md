@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/subrat03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subrat03" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/subrt03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrt03" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/subrt03" target="blank"><img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-944adbb8ac76fec9404672587880ab1d-pjlq" alt="subrt03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subrat-gangwar-51605b205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrat-gangwar-51605b205" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subratgarvmf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subratgarvmf" height="30" width="40" /></a>
 
