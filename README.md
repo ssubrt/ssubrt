@@ -27,11 +27,8 @@
 <a href="https://www.naukri.com/code360/profile/subrt03" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuws45ZRSHpYvP37VDSKulGMs6N8mswekHZfC4F8UihQ&s" alt="subrt03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subrat-gangwar-51605b205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrat-gangwar-51605b205" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subratgarvmf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subratgarvmf" height="30" width="40" /></a>
-
 <a href="https://twitter.com/subrat17578754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subrat17578754" height="30" width="40" /></a>
-
 <a href="https://instagram.com/subrt03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subrt03" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
