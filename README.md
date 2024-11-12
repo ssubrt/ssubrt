@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Subrat Gangwar</h1>
-<h3 align="center">Frontend Web Developer And Learning DSA in C++ and Backend.</h3>
+<h3 align="center">Full Stack Web Developer ,DSA in C++ </h3>
 <img align="right" alt="Coding" width ="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssubrt&label=Profile%20views&color=0e75b6&style=flat" alt="ssubrt" /> </p>
 
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Backend Projects **
 
-- 🌱 I’m currently learning **Backend , Dsa and Competitive Programing**
+- 🌱 I’m currently learning **Competitive Programing , Devops**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
-- 💬 Ask me about **HTML,CSS,JS,React,VUE**
+- 💬 Ask me about **NextJs,ReactJs,Typescript,Javascript,Node,Express **
 
 - 📫 How to reach me **subratgangwar03@gmail.com**
 
