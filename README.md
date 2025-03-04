@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Subrat Gangwar</h1>
 <h3 align="center">Full Stack Web Developer ,DSA in C++ </h3>
-<img align="right" alt="Coding" width ="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+<img align="right" alt="Coding" width ="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssubrt&label=Profile%20views&color=0e75b6&style=flat" alt="ssubrt" /> </p>
